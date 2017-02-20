@@ -396,3 +396,4 @@ __pycache__/
 # !tools/packages.config
 
 # End of https://www.gitignore.io/api/unrealengine,windows,visualstudio,macos
+*.bin
