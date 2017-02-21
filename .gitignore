@@ -397,3 +397,6 @@ __pycache__/
 
 # End of https://www.gitignore.io/api/unrealengine,windows,visualstudio,macos
 *.bin
+Auto_Noire_UE/Saved/AutoScreenshot.png
+Auto_Noire_UE/Saved/Autosaves/PackageRestoreData.json
+Auto_Noire_UE/Intermediate/CachedAssetRegistry.bin
